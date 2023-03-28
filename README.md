@@ -3,7 +3,7 @@ This is the SkyblockExtras latest crack release
 
 This is an Free SBE Version with the newest Update:) Our SBE will be updated as soon as SBE updates. /SBE in Chat. +Added the new SBE Version\
 
-#How To install
+# How To install
 1. Install Minecraft Forge 1.8.9(minecraft launcher, Feather client, etc)
 2. Drop the .jar mod into the mods folder(for minecraft launcher go to .minecraft folder and \mods
 3. Run minecraft 1.8.9 with forge, log into your server/world of choice and enjoy
